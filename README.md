@@ -26,4 +26,11 @@ Enjoy :)
 ![image](https://user-images.githubusercontent.com/16433973/132080135-2a91089d-c17c-4467-8149-1a0749e9e67d.png)
 ![image](https://user-images.githubusercontent.com/16433973/132080143-1d3e7b31-5fcc-438a-a349-36433a4ffc83.png)
 
+### TODO
+ - User sessions, so every user can store its own data
+ - Create a DB to store data (I want to use MySQL with Docker)
+ - Link app with DB instead of a .json file
 
+### Further TODO 
+ - Create a remote DB to store data (hint: use Cloud tools)
+ - Create a remote API (hint: use Heroku)
